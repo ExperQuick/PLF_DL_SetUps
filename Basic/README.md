@@ -1,4 +1,4 @@
-## 🖥️ Project: MNIST Digit Classification
+# 🖥️ Project: MNIST Digit Classification
 
 (Better to create a new environment)
 
